@@ -1,0 +1,35 @@
+{
+  "name": "electron-download-module",
+  "version": "1.0.0",
+  "description": "a powerful electron download util support main process and render process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StitchC/electron-download-module.git"
+  },
+  "keywords": [
+    "electron",
+    "electron-download"
+  ],
+  "author": "stitchC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StitchC/electron-download-module/issues"
+  },
+  "homepage": "https://github.com/StitchC/electron-download-module#readme",
+  "files": [
+    "dist/**/*"
+  ],
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "jest": "^25.1.0",
+    "prettier": "^1.19.1",
+    "ts-jest": "^25.2.0",
+    "tslint": "^6.0.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.7.5"
+  }
+}
